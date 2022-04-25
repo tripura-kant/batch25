@@ -65,7 +65,7 @@ done
 
 Step 6 Update and install SSH and required dependencies 
 apt update
-apt install vim python iputils-ping openssh-client -y
+apt install vim python3 iputils-ping openssh-client -y
 apt-get install openssh-server -y
 Geographical area 6 6city 44
 
